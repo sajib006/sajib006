@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jillur Rahman</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate Data Scientist from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajib006&label=Profile%20views&color=0e75b6&style=flat" alt="sajib006" /> </p>
 
